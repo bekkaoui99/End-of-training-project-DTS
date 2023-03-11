@@ -1,0 +1,12 @@
+
+p{
+    color: black;
+    font-size: 15px;
+}
+#etd{
+    border-radius: 60px 150px 70px 0px;
+    box-shadow: 0 4px 8px 0 rgba(6, 240, 240, 0.2), 0 6px 20px 0 rgba(76, 130, 230, 0.19);
+}
+label{
+    color: black;
+}
